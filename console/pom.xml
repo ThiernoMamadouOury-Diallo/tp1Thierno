@@ -20,14 +20,6 @@
         </dependency>
     </dependencies>
 
-    <!--<repositories>-->
-    <!--<repository>-->
-    <!--<id></id>-->
-    <!--<name></name>-->
-    <!--<url></url>-->
-    <!--</repository>-->
-    <!--</repositories>-->
-
     <build>
         <finalName>tp</finalName>
         <plugins>

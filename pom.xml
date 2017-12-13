@@ -31,21 +31,15 @@
         <module>business</module>
         <module>console</module>
     </modules>
+    
 
-    <dependencies>
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>1.2.9</version>
-        </dependency>
-    </dependencies>
-
-    <!--<repositories>-->
-        <!--<repository>-->
-            <!--<id></id>-->
-            <!--<name></name>-->
-            <!--<url></url>-->
-        <!--</repository>-->
+    <repositories>
+        <repository>
+            <id>reactor</id>
+            <name>mavenProject</name>
+            <url>http://localhost:8081/repository/maven-snapshots/</url>
+        </repository>
+    </repositories>
 
 
 </project>

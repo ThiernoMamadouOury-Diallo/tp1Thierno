@@ -13,15 +13,6 @@
     <groupId>reactor</groupId>
     <artifactId>business</artifactId>
 
-
-    <!--<repositories>-->
-    <!--<repository>-->
-    <!--<id></id>-->
-    <!--<name></name>-->
-    <!--<url></url>-->
-    <!--</repository>-->
-    <!--</repositories>-->
-
     <build>
         <finalName>tp</finalName>
         <plugins>
