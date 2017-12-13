@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="console" />
         <module name="tp1Thierno" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="business" target="1.5" />
+      <module name="console" target="1.7" />
       <module name="tp1Thierno" target="1.7" />
     </bytecodeTargetLevel>
   </component>
