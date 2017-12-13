@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/business/console.iml" filepath="$PROJECT_DIR$/business/console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business.iml" filepath="$PROJECT_DIR$/business/business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/console/console.iml" filepath="$PROJECT_DIR$/console/console.iml" />
       <module fileurl="file://$PROJECT_DIR$/business/src/main/main.iml" filepath="$PROJECT_DIR$/business/src/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tp1Thierno.iml" filepath="$PROJECT_DIR$/tp1Thierno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactor.iml" filepath="$PROJECT_DIR$/reactor.iml" />
     </modules>
   </component>
 </project>

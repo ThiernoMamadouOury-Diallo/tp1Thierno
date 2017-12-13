@@ -1,2 +1,12 @@
 2017-12-13 17:10:11 INFO  Fibonacci:12 - Log4j console appender configuration is successful !!
 2017-12-13 17:10:11 INFO  Fibonacci:17 - Choisir une valeur y/n >> 
+2017-12-13 19:31:35 INFO  main:12 - Log4j console appender configuration is successful !!
+2017-12-13 19:31:35 INFO  main:17 - Choisir une valeur y/n >> 
+2017-12-13 19:32:18 INFO  main:21 - Entrez la valeur: 
+2017-12-13 19:32:20 INFO  main:25 - 
+
+2017-12-13 19:32:20 INFO  main:27 - 1
+2017-12-13 19:32:20 INFO  main:27 - 1
+2017-12-13 19:32:20 INFO  main:27 - 2
+2017-12-13 19:32:20 INFO  main:27 - 3
+2017-12-13 19:32:20 INFO  main:27 - 5
