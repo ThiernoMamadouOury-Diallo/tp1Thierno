@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-public class main{
+public class Runner{
 	final static Logger logger = Logger.getLogger(main.class);
 	
 	public static void main(String[] args) {
