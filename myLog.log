@@ -10,3 +10,45 @@
 2017-12-13 19:32:20 INFO  main:27 - 2
 2017-12-13 19:32:20 INFO  main:27 - 3
 2017-12-13 19:32:20 INFO  main:27 - 5
+2017-12-13 22:25:05 INFO  Runner:12 - Log4j console appender configuration is successful !!
+2017-12-13 22:25:05 INFO  Runner:17 - Choisir une valeur y/n >> 
+2017-12-13 22:25:10 INFO  Runner:21 - Entrez la valeur: 
+2017-12-13 22:25:12 INFO  Runner:25 - 
+
+2017-12-13 22:25:12 INFO  Runner:27 - 1
+2017-12-13 22:25:12 INFO  Runner:27 - 1
+2017-12-13 22:25:12 INFO  Runner:27 - 2
+2017-12-13 22:25:12 INFO  Runner:27 - 3
+2017-12-13 22:25:12 INFO  Runner:27 - 5
+2017-12-13 22:25:12 INFO  Runner:27 - 8
+2017-12-13 22:25:12 INFO  Runner:27 - 13
+2017-12-13 22:25:37 INFO  Runner:12 - Log4j console appender configuration is successful !!
+2017-12-13 22:25:37 INFO  Runner:17 - Choisir une valeur y/n >> 
+2017-12-13 22:25:39 INFO  Runner:21 - Entrez la valeur: 
+2017-12-13 22:25:41 INFO  Runner:25 - 
+
+2017-12-13 22:25:41 INFO  Runner:27 - 1
+2017-12-13 22:25:41 INFO  Runner:27 - 1
+2017-12-13 22:25:41 INFO  Runner:27 - 2
+2017-12-13 22:25:41 INFO  Runner:27 - 3
+2017-12-13 22:25:41 INFO  Runner:27 - 5
+2017-12-13 22:25:41 INFO  Runner:27 - 8
+2017-12-13 22:25:41 INFO  Runner:27 - 13
+2017-12-13 22:25:41 INFO  Runner:27 - 21
+2017-12-13 22:25:41 INFO  Runner:27 - 34
+2017-12-13 22:25:41 INFO  Runner:27 - 55
+2017-12-13 22:25:41 INFO  Runner:27 - 89
+2017-12-13 22:25:41 INFO  Runner:27 - 144
+2017-12-13 22:25:41 INFO  Runner:27 - 233
+2017-12-13 22:25:41 INFO  Runner:27 - 377
+2017-12-13 22:25:41 INFO  Runner:27 - 610
+2017-12-13 22:25:41 INFO  Runner:27 - 987
+2017-12-13 22:25:41 INFO  Runner:27 - 1597
+2017-12-13 22:25:41 INFO  Runner:27 - 2584
+2017-12-13 22:25:41 INFO  Runner:27 - 4181
+2017-12-13 22:25:41 INFO  Runner:27 - 6765
+2017-12-13 22:25:41 INFO  Runner:27 - 10946
+2017-12-13 22:25:41 INFO  Runner:27 - 17711
+2017-12-13 22:25:41 INFO  Runner:27 - 28657
+2017-12-13 22:25:41 INFO  Runner:27 - 46368
+2017-12-13 22:25:41 INFO  Runner:27 - 75025
