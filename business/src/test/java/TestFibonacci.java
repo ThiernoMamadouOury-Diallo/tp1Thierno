@@ -12,6 +12,6 @@ public class TestFibonacci {
     @Test
     public void testFibonacci(){
         int i =fibonacci.fib(5);
-        Assert.assertEquals(1, i);
+        Assert.assertEquals(5, i);
     }
 }

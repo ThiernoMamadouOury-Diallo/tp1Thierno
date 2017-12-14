@@ -1,0 +1,4 @@
+reactor/reactor/1.0-SNAPSHOT/reactor-1.0-SNAPSHOT.pom=reactor:reactor:1.0-SNAPSHOT:n/a:pom:pom:n/a:n/a
+reactor/business/1.0-SNAPSHOT/business-1.0-SNAPSHOT.jar=reactor:business:1.0-SNAPSHOT:n/a:jar:jar:business-1.0-SNAPSHOT.pom:n/a
+reactor/console/1.0-SNAPSHOT/console-1.0-SNAPSHOT.jar=reactor:console:1.0-SNAPSHOT:n/a:jar:jar:console-1.0-SNAPSHOT.pom:n/a
+reactor/console/1.0-SNAPSHOT/console-1.0-SNAPSHOT-jar-with-dependencies.jar=reactor:console:1.0-SNAPSHOT:jar-with-dependencies:jar:jar:n/a:n/a
